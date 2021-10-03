@@ -1,0 +1,36 @@
+Nos interesamos por este reto ya que consideramos que existen areas de oportunidad en las que se pueden mejorar las herramientas de inversion que existen en la actualidad para un servicio mas personalizado a cada cliente dependiendo el tipo de inversion que desee realizar y de esta manera ofrecer o sugerir planes de inversion que mejor se adapten a el mejorando de esta manera la experiencia del usuario.
+Creemos que debemos estar entre los seleccionados por el enfoque disrruptivo que podemos aportar de una forma no solo financiera ni tecnologica sino humana para satisfacer las necesidades del usuario sin descuidar los requerimientos funcionales que la entidad financiera necesita.
+
+
+-++actividad volcanica
+-++carreteras obstruidas
+-++delaves
+-++arboles obstruyendo
+-++colisiones
+-++socavones
+-++inundaciones
+-++incendios
+-derrumbes
+
+
+
+actividad volcanica
+deslaves
+colisiones vehiculares
+inundaciones
+incendios
+
+
+curl -v -X POST -H "Training-key: {8f35c3d822c04726967c3f6837ebe13d}" "https://{endpoint}/customvision/v3.3/Training/projects/{projectId}/iterations/{iterationId}/publish?publishName={publishName}&predictionId={predictionId}"
+
+curl -v -X POST -H "Training-key: {8f35c3d822c04726967c3f6837ebe13d}" "https://{endpoint}/customvision/v3.3/Training/projects/{projectId}/iterations/{iterationId}/publish?publishName={publishName}&predictionId={predictionId}"
+
+
+curl -v -X POST -H "Prediction-key: 8f35c3d822c04726967c3f6837ebe13d" "https://01test-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/99591b4c-bd1e-4eaf-b765-8c0522c3a360/classify/iterations/SpaceAppsCustomVision/URL DE LA IMAGEN DE PRUEBA"
+
+
+
+curl -v -X POST -H "Prediction-key: 8f35c3d822c04726967c3f6837ebe13d" "https://01test-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/99591b4c-bd1e-4eaf-b765-8c0522c3a360/classify/iterations/SpaceAppsCustomVision/URL DE LA IMAGEN DE PRUEBA"
+
+
+curl -v -X POST -H "Prediction-key: 8f35c3d822c04726967c3f6837ebe13d" "https://01test-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/99591b4c-bd1e-4eaf-b765-8c0522c3a360/classify/iterations/SpaceAppsCustomVision/MicrosoftTeams-image.png"
