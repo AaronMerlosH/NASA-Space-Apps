@@ -19,12 +19,12 @@ Taking precautions against disasters with aerial analysis
 - Science
 
 ## Team
-- Leader: Aarón Merlos Hernández. Contacto: crew161@innovaccion.mx
-- (rol): César Gerardo Buendía Galván. Contacto: crew066@innovaccion.mx
-- (rol): Corina Giselle Casillas García. Contacto: crew198@innovaccion.mx
-- (rol): Josu Marinho. Contacto: crew274@innovaccion.mx
-- (rol): Oswaldo Raul Domínguez Chimal. Contacto: crew424@innovaccion.mx
-- (rol): Pamela Santamaría Hernández. Contacto: crew058@innovaccion.mx
+- Leader: Aarón Merlos Hernández. 📧 crew161@innovaccion.mx
+- Data Visualization: César Gerardo Buendía Galván. 📧 crew066@innovaccion.mx
+- Database Programmer: Corina Giselle Casillas García. 📧 crew198@innovaccion.mx
+- Website Builder: Josu Marinho. 📧 crew274@innovaccion.mx
+- Database/Website Programmer: Oswaldo Raul Domínguez Chimal. 📧 crew424@innovaccion.mx
+- Designer/Data Visualization: Pamela Santamaría Hernández. 📧 crew058@innovaccion.mx
 
 
 
@@ -48,12 +48,12 @@ Toma de precauciones ante desastres con análisis áereo
 
 
 ## Equipo
-- Líder: Aarón Merlos Hernández. Contacto: crew161@innovaccion.mx
-- (Inserte rol): César Gerardo Buendía Galván. Contacto: crew066@innovaccion.mx
-- (Inserte rol): Corina Giselle Casillas García. Contacto: crew198@innovaccion.mx
-- (Inserte rol): Josu Marinho. Contacto: crew274@innovaccion.mx
-- (Inserte rol): Oswaldo Raul Domínguez Chimal. Contacto: crew424@innovaccion.mx
-- (Inserte rol): Pamela Santamaría Hernández. Contacto: crew058@innovaccion.mx
+- Líder: Aarón Merlos Hernández. 📧 crew161@innovaccion.mx
+- Visualización de Datos: César Gerardo Buendía Galván. 📧 crew066@innovaccion.mx
+- Bases de Datos: Corina Giselle Casillas García. 📧 crew198@innovaccion.mx
+- Website: Josu Marinho. 📧 crew274@innovaccion.mx
+- Bases de Datos y Website: Oswaldo Raul Domínguez Chimal. 📧 crew424@innovaccion.mx
+- Diseño y Visualización de Datos: Pamela Santamaría Hernández. 📧 crew058@innovaccion.mx
 
 ___
-⌨️ with ❤️ by ⚡CosmoRangers⚡
+⌨️ by ⚡CosmoRangers⚡
