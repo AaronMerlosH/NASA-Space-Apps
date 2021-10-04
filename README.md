@@ -4,7 +4,7 @@ Drones and Satellites For Urban Development
 
 Toma de precauciones ante desastres con análisis áereo​
 
-Tecnologías: Azure App Service, Azure API Apps, IoT, CAD, Azure Custom vision.​
+Tecnologías: Azure App Service, Azure API Apps, IoT, CAD, Azure Custom vision, Power BI.​
 
 Áreas: Logística, Diseño, Ciencias.​
 
