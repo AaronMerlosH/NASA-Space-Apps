@@ -14,12 +14,12 @@ Taking precautions against disasters with aerial analysis
 - Power BI
 
 ## Areas📋
--Logistics
--Desing
--Science
+- Logistics
+- Design
+- Science
 
 ## Team
--Leader: Aarón Merlos Hernández. Contacto: crew161@innovaccion.mx
+- Leader: Aarón Merlos Hernández. Contacto: crew161@innovaccion.mx
 - (rol): César Gerardo Buendía Galván. Contacto: crew066@innovaccion.mx
 - (rol): Corina Giselle Casillas García. Contacto: crew198@innovaccion.mx
 - (rol): Josu Marinho. Contacto: crew274@innovaccion.mx
@@ -42,13 +42,13 @@ Toma de precauciones ante desastres con análisis áereo
 - Power BI
 
 ## Áreas📋
--Logística
--Diseño
--Ciencias
+- Logística
+- Diseño
+- Ciencias
 
 
 ## Equipo
--Lider: Aarón Merlos Hernández. Contacto: crew161@innovaccion.mx
+- Líder: Aarón Merlos Hernández. Contacto: crew161@innovaccion.mx
 - (Inserte rol): César Gerardo Buendía Galván. Contacto: crew066@innovaccion.mx
 - (Inserte rol): Corina Giselle Casillas García. Contacto: crew198@innovaccion.mx
 - (Inserte rol): Josu Marinho. Contacto: crew274@innovaccion.mx
