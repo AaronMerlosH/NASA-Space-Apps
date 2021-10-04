@@ -54,3 +54,6 @@ Toma de precauciones ante desastres con análisis áereo
 - (Inserte rol): Josu Marinho. Contacto: crew274@innovaccion.mx
 - (Inserte rol): Oswaldo Raul Domínguez Chimal. Contacto: crew424@innovaccion.mx
 - (Inserte rol): Pamela Santamaría Hernández. Contacto: crew058@innovaccion.mx
+
+___
+⌨️ with ❤️ by ⚡CosmoRangers⚡
