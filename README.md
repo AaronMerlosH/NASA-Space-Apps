@@ -1,24 +1,24 @@
 # NASA-Space-Apps 🚀
 
-#English 🇺🇸
-##Challenge: Drones and Satellites for Urban Development
+# English 🇺🇸
+## Challenge: Drones and Satellites for Urban Development
 
-##Project Proposal📄
+## Project Proposal📄
 Taking precautions against disasters with aerial analysis
 
-##Technologies🛠️
+## Technologies🛠️
 - Azure App Service, 
 - Azure API Apps
 - Azure Custom vision
 - Autodesk Fusion 360
 - Power BI
 
-##Areas📋
+## Areas📋
 -Logistics
 -Desing
 -Science
 
-##Team
+## Team
 -Leader: Aarón Merlos Hernández. Contacto: crew161@innovaccion.mx
 - (rol): César Gerardo Buendía Galván. Contacto: crew066@innovaccion.mx
 - (rol): Corina Giselle Casillas García. Contacto: crew198@innovaccion.mx
@@ -28,26 +28,26 @@ Taking precautions against disasters with aerial analysis
 
 
 
-#Español 🇲🇽
-##Challenge: Drones and Satellites For Urban Development
+# Español 🇲🇽
+## Challenge: Drones and Satellites For Urban Development
 
-##Propuesta📄
+## Propuesta📄
 Toma de precauciones ante desastres con análisis áereo
 
-##Tecnologías utilizadas🛠️ 
+## Tecnologías utilizadas🛠️ 
 - Azure App Service, 
 - Azure API Apps
 - Azure Custom vision
 - Autodesk Fusion 360
 - Power BI
 
-##Áreas📋
+## Áreas📋
 -Logística
 -Diseño
 -Ciencias
 
 
-##Equipo
+## Equipo
 -Lider: Aarón Merlos Hernández. Contacto: crew161@innovaccion.mx
 - (Inserte rol): César Gerardo Buendía Galván. Contacto: crew066@innovaccion.mx
 - (Inserte rol): Corina Giselle Casillas García. Contacto: crew198@innovaccion.mx
