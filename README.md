@@ -21,6 +21,8 @@ Check it out: https://xd.adobe.com/view/2f5ced14-f90e-4ad0-a6a8-572d110cea54-7a0
 Check it out: http://monitorderesilenciaurbana.azurewebsites.net
 
 ### Custom Vision and Cosmos DB
+![ice_video_20211005-090521_edit_0(2)](https://user-images.githubusercontent.com/78579909/136044023-bdaddf41-31e2-440e-83f6-a892619e1838.gif)
+
 Check how it works (spanish): https://www.canva.com/design/DAEr9eCsQPE/PsbLxjoiTNw7JP9kPTtsxg/watch?utm_content=DAEr9eCsQPE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 
@@ -75,6 +77,8 @@ Dale un vistazo: https://xd.adobe.com/view/2f5ced14-f90e-4ad0-a6a8-572d110cea54-
 Dale un vistazo: http://monitorderesilenciaurbana.azurewebsites.net
 
 ### Custom Vision and Cosmos DB
+![ice_video_20211005-090521_edit_0(2)](https://user-images.githubusercontent.com/78579909/136044023-bdaddf41-31e2-440e-83f6-a892619e1838.gif)
+
 Mira cómo funciona: https://www.canva.com/design/DAEr9eCsQPE/PsbLxjoiTNw7JP9kPTtsxg/watch?utm_content=DAEr9eCsQPE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 ### Power BI Dashboard
