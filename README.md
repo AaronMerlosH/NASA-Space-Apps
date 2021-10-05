@@ -9,10 +9,12 @@ Taking precautions against disasters with aerial analysis
 ## Our Work
 ### App Prototipe
 ![AppGif_edit_0](https://user-images.githubusercontent.com/78579909/136032152-a9252851-5f0c-4dd9-b3aa-c41856b6e14d.gif)
+
 Check it out: https://xd.adobe.com/view/2f5ced14-f90e-4ad0-a6a8-572d110cea54-7a0f/?fullscreen&hints=off
 
 ### WebSite
 ![GIF_Web_App](https://user-images.githubusercontent.com/78579909/136032746-85ce0af2-1589-4aef-8db5-e596e521ba00.gif)
+
 Check it out: http://monitorderesilenciaurbana.azurewebsites.net
 
 ### Power BI Dashboard
@@ -59,10 +61,12 @@ Toma de precauciones ante desastres con análisis áereo
 ## Nuestro trabajo
 ### App Prototipo
 ![AppGif_edit_0](https://user-images.githubusercontent.com/78579909/136032152-a9252851-5f0c-4dd9-b3aa-c41856b6e14d.gif)
+
 Dale un vistazo: https://xd.adobe.com/view/2f5ced14-f90e-4ad0-a6a8-572d110cea54-7a0f/?fullscreen&hints=off
 
 ### Sitio Web
 ![GIF_Web_App](https://user-images.githubusercontent.com/78579909/136032746-85ce0af2-1589-4aef-8db5-e596e521ba00.gif)
+
 Dale un vistazo: http://monitorderesilenciaurbana.azurewebsites.net
 
 ### Power BI Dashboard
